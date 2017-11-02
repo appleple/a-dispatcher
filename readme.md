@@ -2,6 +2,10 @@
 
 Just a simple url-dispatcher you can use with regex
 
+```sh
+npm install a-dispatcher --save
+```
+
 ```js
 import Dispatcher from 'a-dispatcher';
 import User from './user-info';
