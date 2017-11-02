@@ -1,0 +1,14 @@
+{
+  "name": "a-dispatcher",
+  "version": "1.0.0",
+  "description": "just a simple url dispatcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url-dispatcher"
+  ],
+  "author": "appleple",
+  "license": "MIT"
+}
